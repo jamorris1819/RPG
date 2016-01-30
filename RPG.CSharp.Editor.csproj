@@ -101,6 +101,15 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Dialoguer\DialogueEditor\Scripts\Editor\DialogueEditorAssetModificationProcessor.cs" />
+    <Compile Include="Assets\Dialoguer\DialogueEditor\Scripts\Editor\DialogueEditorHelp.cs" />
+    <Compile Include="Assets\Dialoguer\DialogueEditor\Scripts\Editor\DialogueEditorMasterObjectWrapperEditor.cs" />
+    <Compile Include="Assets\Dialoguer\DialogueEditor\Scripts\Editor\DialogueEditorWindow.cs" />
+    <Compile Include="Assets\Dialoguer\DialogueEditor\Scripts\Editor\DialoguerEnumGenerator.cs" />
+    <Compile Include="Assets\Dialoguer\DialogueEditor\Scripts\Editor\GUI\DialogueEditorGUI.cs" />
+    <Compile Include="Assets\Dialoguer\DialogueEditor\Scripts\Editor\Managers\DialogueEditorDataManager.cs" />
+    <Compile Include="Assets\Dialoguer\DialogueEditor\Scripts\Editor\ThemeEditorWindow.cs" />
+    <Compile Include="Assets\Dialoguer\DialogueEditor\Scripts\Editor\VariableEditorWindow.cs" />
     <Compile Include="Assets\Tiled2Unity\Scripts\Editor\CustomTiledImporterAttribute.cs" />
     <Compile Include="Assets\Tiled2Unity\Scripts\Editor\ICustomTiledImporter.cs" />
     <Compile Include="Assets\Tiled2Unity\Scripts\Editor\ImportTiled2Unity.Material.cs" />
@@ -114,6 +123,10 @@
     <Compile Include="Assets\Tiled2Unity\Scripts\Editor\TiledAssetPostProcessor.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\DialoguerExamples\_README.txt" />
+    <None Include="Assets\Dialoguer_README.txt" />
+    <None Include="Assets\Tiled2Unity\Imported\First.tiled2unity.xml" />
+    <None Include="Assets\Tiled2Unity\Imported\Forest.tiled2unity.xml" />
     <None Include="Assets\Tiled2Unity\Imported\Map.tiled2unity.xml" />
     <None Include="Assets\Tiled2Unity\Imported\_ReadMe.txt" />
     <None Include="Assets\Tiled2Unity\License.txt" />
