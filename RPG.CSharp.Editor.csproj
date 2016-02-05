@@ -127,6 +127,7 @@
     <None Include="Assets\Dialoguer_README.txt" />
     <None Include="Assets\Tiled2Unity\Imported\First.tiled2unity.xml" />
     <None Include="Assets\Tiled2Unity\Imported\Forest.tiled2unity.xml" />
+    <None Include="Assets\Tiled2Unity\Imported\InitialForest.tiled2unity.xml" />
     <None Include="Assets\Tiled2Unity\Imported\Map.tiled2unity.xml" />
     <None Include="Assets\Tiled2Unity\Imported\_ReadMe.txt" />
     <None Include="Assets\Tiled2Unity\License.txt" />

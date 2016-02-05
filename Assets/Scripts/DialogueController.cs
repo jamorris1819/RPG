@@ -37,7 +37,7 @@ public class DialogueController : MonoBehaviour {
         Dialoguer.events.onWindowClose += onWindowClose;
         continueButton.onClick.AddListener(ContinueClick);
 
-        Dialoguer.StartDialogue(DialoguerDialogues.FOREST_TUTORIAL_1);
+        //Dialoguer.StartDialogue(DialoguerDialogues.FOREST_TUTORIAL_1);
     }
 
     private void onStarted()
